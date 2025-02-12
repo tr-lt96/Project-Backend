@@ -1,0 +1,51 @@
+[ {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739284200,
+  "price" : 229.57000732421875
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739285159,
+  "price" : 229.77000427246094
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739286058,
+  "price" : 230.5050048828125
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739290527,
+  "price" : 234.17210388183594
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739296415,
+  "price" : 234.25
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739297315,
+  "price" : 234.04080200195312
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739298214,
+  "price" : 233.3800048828125
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739299114,
+  "price" : 234.1291961669922
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739300014,
+  "price" : 233.9199981689453
+}, {
+  "stockName" : "Apple Inc.",
+  "stockSymbol" : "AAPL",
+  "timestamp" : 1739306022,
+  "price" : 233.0998992919922
+} ]

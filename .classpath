@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/jackson-annotations-2.15.2.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/jackson-core-2.15.2.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/jackson-databind-2.15.2.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/lombok.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Desktop/LEARNING/BACKEND INTENSIVE/Tomcat/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="/Users/luattran/Downloads/apache-tomcat-9.0.98/lib/tomcat-util.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://tomcat.apache.org/tomcat-9.0-doc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
